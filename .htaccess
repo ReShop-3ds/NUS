@@ -1,0 +1,1 @@
+RewriteRule ^nus/services/NetUpdateSOAP$ stupid.php
